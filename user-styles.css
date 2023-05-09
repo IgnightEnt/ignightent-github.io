@@ -5,22 +5,22 @@
 
 /* this is an example of importing a font placed in the user-fonts folder */
 @font-face {
-    font-family: "Scaffolding";
-    src: url("user-fonts/Scaffolding-Regular.woff2") format("woff2"),
-        url("user-fonts/Scaffolding-Regular.woff") format("woff");
+    font-family: "mhandby";
+    src: url("user-fonts/mHandby_Font.woff2") format("woff2"),
+        url("user-fonts/mHandby_Font.woff") format("woff");
 }
 
 :root {
     /* color of the whole page */
-    --color-background: #ffff00;
+    --color-background: #000000;
     /* color of text elements */
-    --color-foreground: black;
+    --color-foreground: rgb(255, 255, 255);
 }
 
 /* these are settings for all text */
 /* replace "Scaffolding" with the name of the font you want to use */
 body {
-    font-family: 'Scaffolding', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'mhandby', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 /* this is the title text */
@@ -30,12 +30,19 @@ body {
     /* use 10vw for a medium sized name like John Smith */
     /* use 8vw for a longer name like Pedestrian Tactics */
     /* use 20vw for a shorter name like Klippee */
-    font-size: 13vw;
+    font-size: 20vw;
 }
 
 /* this is the style for the intro text */
 #intro-text p {
     font-size: 32pt;
+}
+
+/* this is the style for the link text */
+#intro-text a {
+    font-size: 32pt;
+    text-decoration: ;
+    color: darkorange;
 }
 
 /* this will show up on custom pages */
@@ -51,5 +58,5 @@ body {
 /* this will cap the width of the title, images, and description */
 /* you can use a percentage of the whole page or a pixel value */
 #title-container {
-    width: 100%;
+    width: 60%;
 }
