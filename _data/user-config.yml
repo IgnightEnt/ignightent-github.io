@@ -15,7 +15,7 @@ background-image: Ignight Logo 3k Banner.jpeg
 # this is just a convenient switch to hide all the images without having to delete the text below
 show-images: true
 # whether to put the images above or below the intro text
-images-above-intro-text: false
+images-above-intro-text: true
 # if you would like to show images on the main page put them in the user-images folder and then include them here
 # the alt is what will show when you hover over the image with a cursor
 images:
