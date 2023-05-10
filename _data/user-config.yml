@@ -1,7 +1,7 @@
 # this will show up on the tab for the site
 meta-title: "Ignight Music"
 # this shows up below the title in a google search result
-meta-description: Experience the blazing passion and inspiring vision of Ignight. With explosive beats, fiery vocals, and lyrics that ignite the soul, Ignight's music reaches deep into the soul to spark a flame that lasts and spreads. Discover their latest releases, learn about their creative process, and connect with other fans who have been lit up by this rising star's spark. 
+meta-description: Launch into the blazing passion and inspiring vision of Ignight. With explosive beats, lit experiences, and lyrics to ignite your inner fire, Ignight's music reaches deep into the soul to spark a flame that lasts and spreads. Discover Ignight's latest releases, learn about their creative process, and connect with other fans who have been lit up by this rising star's spark.
 # whether to show the title on the front page
 show-title: false
 # this shows up on the main page
@@ -15,16 +15,13 @@ background-image: Ignight Logo 3k Banner.jpeg
 # this is just a convenient switch to hide all the images without having to delete the text below
 show-images: true
 # whether to put the images above or below the intro text
-images-above-intro-text: true
+images-above-intro-text: false
 # if you would like to show images on the main page put them in the user-images folder and then include them here
 # the alt is what will show when you hover over the image with a cursor
 images:
 
 - alt: Logo
   url: Ignight site header.jpeg
-
-- alt: Bio photo
-  url: Ignight Artist Profile Pic.jpg
 
 # in case you want to hide the links for some reason
 show-links: true
@@ -38,16 +35,16 @@ links:
   url: https://open.spotify.com/artist/4oirzK5mrj6EN8e484jlj3
   new-tab: true
 
-- title: Twitter
-  url: http://twitter.com/ignightofficial
-  new-tab: true
-  
 - title: Instagram
   url: http://instagram.com/ignight
   new-tab: true
+
+- title: Bio
+  url: user-custom-page
   
 - title: Email
   url: mailto:ignightofficial@gmail.com
 
-- title: Bio
-  url: user-custom-page
+- title: Twitter
+  url: http://twitter.com/ignightofficial
+  new-tab: true
