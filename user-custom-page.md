@@ -15,7 +15,7 @@ Ignight has been blessed to open for Autograf, Curbi, N2N, Yolanda Be Cool, Skii
 
 Mike has set his sights on lighting people up by championing the charge for a healthier nightlife.  He co-founded of Sundown Music Festival, Sercret Dance Addiction, and Ignight Entertainment to invest in the mental & physical health of his audience.  Ignight believes that we go to events to connect to ourselves, to eachother, and to lose ourselves in the music.
 
-Ignight's music reaches deep into the ancient wisdom & spiritualities of the soul, igniting a flame that spreads, illuminating a light that lasts.
+Ignight's music reaches deep into the ancient wisdom & spiritualities of the soul, sparking a flame that spreads, igniting a light that illuminates.
 Ignight spans industries, genres, and formats; forging immersive audio for original productions, recording the most bizarre foley sounds, designing effects for videogames, and composing themes for cinema, all for one simple purpose: to light people up.
 
-Stay lit.
+Stay lit
